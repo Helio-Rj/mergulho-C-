@@ -43,3 +43,5 @@ int main() {
 
     return 0; // Indica que o programa terminou com sucesso
 }
+// Fim do código
+// Este programa demonstra o uso de operadores aritméticos em C++.
